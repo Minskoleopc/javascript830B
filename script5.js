@@ -83,14 +83,9 @@ console.log(7 == 7 || 3 === '3')
 console.log(7 == 6 || 3 === '3')
 
 // Not - !
-
 //! true  ===> false
 // !false ===> true
-
 console.log(!(8 === 8))
 console.log(! (8 === 7))
 
 
-
-
-// logical operator
