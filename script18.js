@@ -76,7 +76,6 @@ for(let i = 0 ; i < students.length ; i++){
 console.log(students)
 
 // program 7
-
 let info3 = {
     firstName:"chinmay",
     lastName:"deshpande",
