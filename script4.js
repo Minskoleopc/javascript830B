@@ -29,3 +29,4 @@ console.log(typeof canDrive)
 let firstName = "chinmay"
 console.log(firstName)
 console.log(typeof firstName)
+// "a", "A", "123","34543@#$#","54tasd##f", " "
