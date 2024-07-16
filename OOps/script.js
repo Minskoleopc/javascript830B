@@ -22,6 +22,7 @@ console.log(chinmay.age)
 console.log(amol.age)
 
 class Person {
+    
     constructor(fn,ln){
         this.firstName = fn 
         this.lastName = ln
