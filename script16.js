@@ -60,10 +60,14 @@ let vehicle  ={
     type:"sedane"
 }
 
-console.log(vehicle.color)
-vehicle.color = "green"
-vehicle.regNo = 124
-delete vehicle.color
+// console.log(vehicle.color)
+// vehicle.color = "green"
+// vehicle.regNo = 124
+// delete vehicle.color
 
+console.log(vehicle['color'])
+vehicle['color'] = "red"
+vehicle['regNo'] = 123
+delete vehicle['type']
 
 

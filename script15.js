@@ -72,7 +72,6 @@ let q1 = numbersB.every(function(el,index,arr){
 console.log(q1)
 
 // some
-
 let q2 = numbersB.some(function(el){
     return el > 50
 })

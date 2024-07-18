@@ -92,6 +92,17 @@ let s1 = learning.replace('js',"python")
 console.log(s1)
 
 
+// 10 june 
+
+// cypress - 8:30am
+// playwright - 9.00
+// seleniumPython  - 4 
+// selecniumJava   - 4
+// postman        
+// javasscript
+// python - dataanalysis
+// mongoDb - 
+
 
 
 

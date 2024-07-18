@@ -1,4 +1,3 @@
-
 // program 1
 // what are variables ??
 // let and const , var
@@ -27,7 +26,6 @@ console.log(a%b)
 
 let e = 100
 let f = 50
-
 
 console.log(e+f)
 console.log(e-f)

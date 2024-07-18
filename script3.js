@@ -44,36 +44,36 @@
 // Calculator(4,2)
 
 
-// Day 2
+// // Day 2
 
-// function without parameter and without return type 
+// // function without parameter and without return type 
 
-function add(){
-    console.log(9+9)
-}
-add()
-add()
-add()
-add()
-add()
+// function add(){
+//     console.log(9+9)
+// }
+// add()
+// add()
+// add()
+// add()
+// add()
 
-// function with parameter and without return type 
+// // function with parameter and without return type 
 
-function addB(x,y){
-    console.log(x+y)
-}
-addB(124,4)
-addB(12,4)
+// function addB(x,y){
+//     console.log(x+y)
+// }
+// addB(124,4)
+// addB(12,4)
 
-// function with parameter and function with return type
+// // function with parameter and function with return type
 
-function addC(x,y){
-    return x + y
-}
+// function addC(x,y){
+//     return x + y
+// }
 
-let a = addC(12,4)
-console.log(a)
-console.log(a+a)
+// let a = addC(12,4)
+// console.log(a)
+// console.log(a+a)
 
 
 
